@@ -1,4 +1,4 @@
-English | [中文](https://github.com/JunqiaoDuan/JInv/blob/main/DbUpper/docs/README-CN.md)
+English | [中文](https://github.com/JunqiaoDuan/DbUpper/blob/main/docs/README-CN.md)
 
 
 
